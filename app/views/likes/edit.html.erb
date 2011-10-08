@@ -1,0 +1,13 @@
+<h1>Editing like</h1>
+
+<%= render 'form' %>
+
+<p align="right">
+   <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout"%>
+</p>
+
+<%= link_to 'Show', @like %> |
+<%= link_to 'Back', likes_path %>

@@ -1,0 +1,33 @@
+<h1 align="center">Posts</h1>
+<% if session[:Unity_ID]!=nil %>
+
+<%end%>
+
+
+<table>
+  <tr>
+     <th width="100" align="center" style="background-color: #f5f5dc;">Votes</th>
+    <th width="200" align="center" style="background-color: #f5f5dc;">Subject</th>
+    <th width="400" align="center" style="background-color: #f5f5dc;">Content</th>
+    <th width="100" align="center" style="background-color: #f5f5dc;">Author</th>
+
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @posts_send.each do |post| %>
+  <tr>
+    <td width="200" align="center"><%= post.Votes %></td>
+    <td width="400" align="center"><%= post.Subject %></td>
+    <td width="600" align="center"><%= post.Content %></td>
+    <td width="200" align="center"><%= post.Unity_ID %></td>
+
+
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+

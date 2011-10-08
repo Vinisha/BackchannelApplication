@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Unity_ID: vsingh
+  Name: vartika
+  Password: hello
+  Role: student
+
+two:
+  Unity_ID: vsingh3
+  Name: vartikas
+  Password: helllooo
+  Role: admin
+
+
+<% (1..1000).each do |i| %>
+fix_<%= i %>:
+  Unity_ID: user_<%= i %>
+  Name: user_<%= i %>
+  Password: user_<%= i %>
+  Role: user_<%= i %>
+<% end %>

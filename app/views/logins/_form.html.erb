@@ -1,0 +1,30 @@
+<%= form_for(@login) do |f| %>
+  <% if @login.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@login.errors.count, "error") %> prohibited this login from being saved:</h2>
+
+      <ul>
+      <% @login.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+    <%= form_tag(:url=>'logins/create') %>
+    <p align="center">
+    <%= notice %>
+                    </p>
+        <p align="center" >
+    <%= label_tag(:user,'Username')%>
+    <%= text_field_tag(:user) %>
+     </p>
+    <p align="center">
+      <%= label_tag(:pass,'Password') %>
+      <%= password_field_tag(:pass) %>
+    </p>
+    <p align="center">
+      <%= submit_tag("Login") %>
+    </p>
+
+<% end %>

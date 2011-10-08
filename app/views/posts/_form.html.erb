@@ -1,0 +1,41 @@
+<%= form_for(@post) do |f| %>
+  <% if @post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% @post.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+   <p align="right">
+      <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+     <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+     <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+  <div class="field">
+     <%= f.label :Unity_ID %><br />
+    <%= f.text_field :Unity_ID,:value=>session[:Unity_ID]%>
+  </div>
+  <div class="field">
+    <%= f.label :Title %><br />
+    <%= f.text_field :Subject %>
+  </div>
+  <div class="field">
+    <%= f.label :Post %><br />
+    <%= f.text_area :Content, :rows=> 5, :columns=>10 %>
+  </div>
+  <div class="field">
+    <%= f.hidden_field :Votes, :value=>0 %><br />
+  </div>
+  <div class="field">
+    <%= f.hidden_field :No_Replies, :value=>0 %><br />
+  </div>
+  <div class="actions">
+    <%= f.submit("Submit Post") %>
+  </div>
+<% end %>

@@ -1,0 +1,53 @@
+<h1 align="center">ALL POSTS</h1>
+<p align="right">
+  <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+  <%= link_to @name.Name, posts_path%>
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+<% @role=User.find_by_Unity_ID(session[:Unity_ID])%>
+<% if(@role.Role=='Admin')%>
+<p align="right">
+   <%= link_to 'List all users', users_url %>
+   <%= link_to 'Create a user', new_user_url %>
+</p>
+
+<% end %>
+
+<table>
+  <tr>
+    <th width="100" align="center" style="background-color: #f5f5dc;">Votes</th>
+    <th width="200" align="center" style="background-color: #f5f5dc;">Subject</th>
+    <th width="400" align="center" style="background-color: #f5f5dc;">Content</th>
+    <th width="100" align="center" style="background-color: #f5f5dc;">Author</th>
+
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @posts_send.each do |post| %>
+  <tr>
+    <td width="100" align="center"><%= post.Votes %></td>
+    <td width="200" align="center"><%= post.Subject %></td>
+    <td width="400" align="center"><%= post.Content %></td>
+    <td width="100" align="center"><%= post.Unity_ID %></td>
+
+    <td><%= link_to 'More...', post %></td>
+
+
+    <% if(@role.Role=='Admin') || post.Unity_ID==session[:Unity_ID]%>
+
+     <td><%= link_to 'Edit', edit_post_path(post) %></td>
+     <td><%= link_to 'Destroy', post, confirm: 'Are you sure?', method: :delete %></td>
+    <%end%>
+
+  </tr>
+<% end %>
+</table>
+
+<br />
+<p align="center">
+<%= link_to 'Write a new post...', new_post_path %>
+</p>
+

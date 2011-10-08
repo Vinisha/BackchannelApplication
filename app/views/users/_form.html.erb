@@ -1,0 +1,50 @@
+<%= form_for(@user) do |f| %>
+  <% if @user.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@user.errors.count, "error") %> prohibited this user from being saved:</h2>
+
+      <ul>
+      <% @user.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+
+
+  <div class="field">
+    <%= f.label :Unity_ID %><br />
+    <%= f.text_field :Unity_ID %>
+  </div>
+  <div class="field">
+    <%= f.label :Name %><br />
+    <%= f.text_field :Name %>
+  </div>
+  <div class="field">
+    <%= f.label :Password %><br />
+    <%= f.password_field :Password %>
+  </div>
+  <% if session[:Unity_ID]!=nil %>
+   <% @role=User.find_by_Unity_ID(session[:Unity_ID])%>
+   <% if(@role.Role=='Admin')%>
+   <div class="field">
+   <%= f.label :Role %><br />
+  <%= f.select:Role, [['Admin','Admin'],['Student','Student']] %>
+ </div>
+  <%else%>
+ <div class="field">
+   <%= f.label :Role %><br />
+   <%= f.text_field :Role, :value=>"student", :readonly=>true %>
+ </div>
+  <%end%>
+  <% else %>
+       <div class="field">
+   <%= f.label :Role %><br />
+   <%= f.text_field :Role, :value=>"student", :readonly=>true %>
+ </div>
+ <% end%>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

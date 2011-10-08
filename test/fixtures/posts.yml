@@ -1,0 +1,24 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Unity_ID: vsingh
+  Subject: djfwfnf
+  Content: nbsmfvmnfvw
+  Votes: 1
+  No_Replies: 1
+
+two:
+  Unity_ID: vsingh1
+  Subject: MyStrinff
+  Content: MyStringfd
+  Votes: 1
+  No_Replies: 1
+
+<% (1..1000).each do |i| %>
+fix_<%= i %>:
+  Unity_ID: post_<%= i %>
+  Subject: post_<%= i %>
+  Content: post_<%= i %>
+  Votes: post_<%= i %>
+  No_Replies: post_<%= i %>
+<% end %>

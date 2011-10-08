@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+<p align="right">
+   <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+
+<p>
+  <b>Username:</b>
+  <%= @login.Username %>
+</p>
+
+<p>
+  <b>Password:</b>
+  <%= @login.Password %>
+</p>
+
+
+<%= link_to 'Edit', edit_login_path(@login) %> |
+<%= link_to 'Back', logins_path %>

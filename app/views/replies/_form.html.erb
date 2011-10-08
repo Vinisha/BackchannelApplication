@@ -1,0 +1,38 @@
+<%= form_for(@reply) do |f| %>
+  <% if @reply.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@reply.errors.count, "error") %> prohibited this reply from being saved:</h2>
+
+      <ul>
+      <% @reply.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+   <%= f.label :Unity_ID %><br />
+    <%= f.text_field :Unity_ID,:value=>session[:Unity_ID], :readonly=>true%>
+  </div>
+   <div class="field">
+   <% f.label :Post_ID, :readonly=>true %><br />
+    <%= f.text_field :Post_ID,:value=>session[:post_id], :type=>"hidden"%>
+  </div>
+   <div class="field" >
+   <% f.label :Reply_Number, :readonly=>true%><br />
+    <%= f.text_field :Reply_number,:value=>session[:reply_number], :type=>"hidden"%>
+  </div>
+   <div class="field">
+   <%= f.label :Subject %><br />
+    <%= f.text_field :Subject,:value=>session[:subject], :readonly=>true%>
+  </div>
+   <div class="field">
+    <%= f.label :Reply %><br />
+    <%= f.text_area :Reply, :rows=>10, :cols=>20 %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,26 @@
+<h1>Listing likes</h1>
+<p align="right">
+ <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @likes.each do |like| %>
+  <tr>
+    <td><%= link_to 'Show', like %></td>
+    <td><%= link_to 'Edit', edit_like_path(like) %></td>
+    <td><%= link_to 'Destroy', like, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Like', new_like_path %>

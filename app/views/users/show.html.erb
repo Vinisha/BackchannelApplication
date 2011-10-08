@@ -1,0 +1,26 @@
+<p id="notice"><%= notice %></p>
+
+
+<p>
+  <b>Unity id:</b>
+  <%= @user.Unity_ID %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @user.Name %>
+</p>
+
+<p>
+  <b>Password:</b>
+  <%= @user.Password %>
+</p>
+
+<p>
+  <b>Role:</b>
+  <%= @user.Role %>
+</p>
+
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', new_login_path %>

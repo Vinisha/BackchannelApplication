@@ -1,0 +1,111 @@
+<p id="notice"><%= notice %></p>
+
+<p align="right">
+   <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+   <%= link_to @name.Name, posts_path%>
+   <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+<table align="center">
+  <tr>
+  <td>
+          <p>
+            <b>Subject:</b>
+            <%= @post.Subject %>
+          </p>
+  </td>
+  </tr>
+
+   <tr>
+    <td>
+        <p>
+          <b>Content:</b>
+          <%= @post.Content %>
+        </p>
+    </td>
+   </tr>
+
+
+  <tr>
+
+    <td colspan="2">
+
+          <b>Unity id:</b>
+          <%= @post.Unity_ID %>
+
+     </td>
+    </tr>
+  <tr>
+    <td colspan="3"></td>
+     <td>
+
+          <b>Votes:</b>
+          <%= @post.Votes %>
+       </td>
+
+        <td style="color: #ffffff;">
+                 <% if(session[:Unity_ID]!=nil) %>
+             <%= link_to 'Reply', new_reply_path %>
+           <%end%>
+        </td>
+        <td style="color: #ffffff;">
+            <% @unity=Post.find_by_id(session[:post_id])%>
+            <% if(@unity.Unity_ID != session[:Unity_ID] && session[:Unity_ID]!=nil) %>
+                <%= link_to 'Vote', :controller=>"likes", :action=>"vote_check" %>
+            <%end%>
+
+            <% if(@unity.Unity_ID == session[:Unity_ID] && session[:Unity_ID]!=nil) %>
+               <%= link_to 'Edit post', edit_post_path(@post) %>
+            <%end%>
+         </td>
+        </tr>
+      </table>
+
+
+        <table width="10" align="center">
+         <tr>
+
+           <th>Replies</th>
+         <tr>
+
+        <% @reply.each do |reply| %>
+         <tr style="border-bottom-style: solid; border-bottom-color: #999999; ">
+
+           <td align="center" bgcolor="#ffe4c4" style=" overflow-x: hidden;">
+             <p>
+             <%= reply.Reply %></td>
+                </p>
+         </tr>
+         <tr>
+           <td colspan="2">
+           <td colspan="1" style="color: #ffffff;">
+           <% reply.Unity_ID %></td>
+           </td>
+           <p>
+           <td style="color: #ffffff;"><%= reply.Unity_ID%></td>
+           <td style="color: #ffffff;">Votes:<%= reply.No_of_likes%></td>
+           <td style="color: #ffffff;">
+           <% if(session[:Unity_ID]!=nil) %>
+                 <%= link_to 'Vote', :controller=>:likesforreplies, :action=>:check, :idmine=>reply.Reply_number %>
+            <%end%>
+
+           </td>
+
+           </p>
+         </tr>
+        <% end %>
+        </table>
+
+
+
+    </td>
+  </tr>
+</table>
+
+
+
+<p align="center">
+<% if(session[:Unity_ID]!=nil) %>
+    <%= link_to 'Back', posts_path %>
+<%end%>
+</p>

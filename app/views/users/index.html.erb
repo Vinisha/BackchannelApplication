@@ -1,0 +1,50 @@
+<h1>Listing users</h1>
+
+<% @role=User.find_by_Unity_ID(session[:Unity_ID])%>
+<% if(@role.Role=='Admin')%>
+ <p align="right">
+    <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+   <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+   <%= link_to 'List all the posts', posts_url %>
+   <%= link_to 'create users', new_user_url %>
+
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+
+ </p>
+ <% else %>
+    <p align="right">
+       <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+      <%= link_to 'Home', posts_path%>
+     <%= link_to @name.Name, posts_path%>
+  <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
+<% end %>
+
+<table>
+  <tr>
+    <th>Unity id</th>
+    <th>Name</th>
+    <th>Password</th>
+    <th>Role</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @users.each do |user| %>
+  <tr>
+    <td><%= user.Unity_ID %></td>
+    <td><%= user.Name %></td>
+    <td><%= user.Password %></td>
+    <td><%= user.Role %></td>
+    <td><%= link_to 'Show', user %></td>
+    <td><%= link_to 'Edit', edit_user_path(user) %></td>
+    <td><%= link_to 'Destroy', user, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New User', new_user_path %>
