@@ -5,15 +5,15 @@ Gem::Specification.new do |s|
   s.version = "1.3.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Joshua Peek}]
+  s.authors = ["Joshua Peek"]
   s.date = %q{2011-03-24}
   s.description = %q{    Rack middleware to force SSL/TLS.
 }
   s.email = %q{josh@joshpeek.com}
   s.homepage = %q{https://github.com/josh/rack-ssl}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{rack-ssl}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Force SSL/TLS in your app.}
 
   if s.respond_to? :specification_version then

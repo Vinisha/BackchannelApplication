@@ -5,16 +5,16 @@ Gem::Specification.new do |s|
   s.version = "3.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3.6") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{David Heinemeier Hansson}]
+  s.authors = ["David Heinemeier Hansson"]
   s.date = %q{2011-08-31}
   s.description = %q{Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable productivity. It encourages beautiful code by favoring convention over configuration.}
   s.email = %q{david@loudthinking.com}
-  s.executables = [%q{rails}]
-  s.files = [%q{bin/rails}]
+  s.executables = ["rails"]
+  s.files = ["bin/rails"]
   s.homepage = %q{http://www.rubyonrails.org}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.required_ruby_version = Gem::Requirement.new(">= 1.8.7")
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Full-stack web application framework.}
 
   if s.respond_to? :specification_version then

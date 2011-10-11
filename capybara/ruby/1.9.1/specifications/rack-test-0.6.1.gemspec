@@ -5,19 +5,19 @@ Gem::Specification.new do |s|
   s.version = "0.6.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Bryan Helmkamp}]
+  s.authors = ["Bryan Helmkamp"]
   s.date = %q{2011-07-27}
   s.description = %q{Rack::Test is a small, simple testing API for Rack apps. It can be used on its
 own or as a reusable starting point for Web frameworks and testing libraries
 to build on. Most of its initial functionality is an extraction of Merb 1.0's
 request helpers feature.}
   s.email = %q{bryan@brynary.com}
-  s.extra_rdoc_files = [%q{README.rdoc}, %q{MIT-LICENSE.txt}]
-  s.files = [%q{README.rdoc}, %q{MIT-LICENSE.txt}]
+  s.extra_rdoc_files = ["README.rdoc", "MIT-LICENSE.txt"]
+  s.files = ["README.rdoc", "MIT-LICENSE.txt"]
   s.homepage = %q{http://github.com/brynary/rack-test}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{rack-test}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Simple testing API built on Rack}
 
   if s.respond_to? :specification_version then

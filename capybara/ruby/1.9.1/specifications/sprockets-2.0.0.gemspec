@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "2.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Sam Stephenson}, %q{Joshua Peek}]
+  s.authors = ["Sam Stephenson", "Joshua Peek"]
   s.date = %q{2011-08-29}
   s.description = %q{Sprockets is a Rack-based asset packaging system that concatenates and serves JavaScript, CoffeeScript, CSS, LESS, Sass, and SCSS.}
-  s.email = [%q{sstephenson@gmail.com}, %q{josh@joshpeek.com}]
+  s.email = ["sstephenson@gmail.com", "josh@joshpeek.com"]
   s.homepage = %q{http://getsprockets.org/}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{sprockets}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Rack-based asset packaging system}
 
   if s.respond_to? :specification_version then

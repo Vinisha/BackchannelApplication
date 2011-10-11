@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "2.7.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{makoto kuwata}]
+  s.authors = ["makoto kuwata"]
   s.date = %q{2011-04-01}
   s.description = %q{  Erubis is an implementation of eRuby and has the following features:
 
@@ -21,12 +21,12 @@ Gem::Specification.new do |s|
   * Ruby on Rails support
 }
   s.email = %q{kwa(at)kuwata-lab.com}
-  s.executables = [%q{erubis}]
-  s.files = [%q{bin/erubis}]
+  s.executables = ["erubis"]
+  s.files = ["bin/erubis"]
   s.homepage = %q{http://www.kuwata-lab.com/erubis/}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{erubis}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{a fast and extensible eRuby implementation which supports multi-language}
 
   if s.respond_to? :specification_version then

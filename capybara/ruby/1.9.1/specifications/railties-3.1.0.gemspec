@@ -5,17 +5,17 @@ Gem::Specification.new do |s|
   s.version = "3.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{David Heinemeier Hansson}]
+  s.authors = ["David Heinemeier Hansson"]
   s.date = %q{2011-08-31}
   s.description = %q{Rails internals: application bootup, plugins, generators, and rake tasks.}
   s.email = %q{david@loudthinking.com}
-  s.executables = [%q{rails}]
-  s.files = [%q{bin/rails}]
+  s.executables = ["rails"]
+  s.files = ["bin/rails"]
   s.homepage = %q{http://www.rubyonrails.org}
-  s.rdoc_options = [%q{--exclude}, %q{.}]
-  s.require_paths = [%q{lib}]
+  s.rdoc_options = ["--exclude", "."]
+  s.require_paths = ["lib"]
   s.required_ruby_version = Gem::Requirement.new(">= 1.8.7")
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Tools for creating, working with, and running Rails applications.}
 
   if s.respond_to? :specification_version then

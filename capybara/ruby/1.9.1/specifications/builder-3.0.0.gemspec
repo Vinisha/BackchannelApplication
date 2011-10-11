@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "3.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Jim Weirich}]
+  s.authors = ["Jim Weirich"]
   s.autorequire = %q{builder}
   s.date = %q{2010-11-17}
   s.description = %q{Builder provides a number of builder objects that make creating structured data
@@ -15,12 +15,12 @@ simple to do.  Currently the following builder objects are supported:
 * XML Events
 }
   s.email = %q{jim@weirichhouse.org}
-  s.extra_rdoc_files = [%q{CHANGES}, %q{Rakefile}, %q{README}, %q{README.rdoc}, %q{TAGS}, %q{doc/releases/builder-1.2.4.rdoc}, %q{doc/releases/builder-2.0.0.rdoc}, %q{doc/releases/builder-2.1.1.rdoc}]
-  s.files = [%q{CHANGES}, %q{Rakefile}, %q{README}, %q{README.rdoc}, %q{TAGS}, %q{doc/releases/builder-1.2.4.rdoc}, %q{doc/releases/builder-2.0.0.rdoc}, %q{doc/releases/builder-2.1.1.rdoc}]
+  s.extra_rdoc_files = ["CHANGES", "Rakefile", "README", "README.rdoc", "TAGS", "doc/releases/builder-1.2.4.rdoc", "doc/releases/builder-2.0.0.rdoc", "doc/releases/builder-2.1.1.rdoc"]
+  s.files = ["CHANGES", "Rakefile", "README", "README.rdoc", "TAGS", "doc/releases/builder-1.2.4.rdoc", "doc/releases/builder-2.0.0.rdoc", "doc/releases/builder-2.1.1.rdoc"]
   s.homepage = %q{http://onestepback.org}
-  s.rdoc_options = [%q{--title}, %q{Builder -- Easy XML Building}, %q{--main}, %q{README.rdoc}, %q{--line-numbers}]
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.rdoc_options = ["--title", "Builder -- Easy XML Building", "--main", "README.rdoc", "--line-numbers"]
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Builders for MarkUp.}
 
   if s.respond_to? :specification_version then

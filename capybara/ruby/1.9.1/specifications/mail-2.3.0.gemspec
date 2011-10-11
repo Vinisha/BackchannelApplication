@@ -5,15 +5,15 @@ Gem::Specification.new do |s|
   s.version = "2.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Mikel Lindsaar}]
+  s.authors = ["Mikel Lindsaar"]
   s.date = %q{2011-04-25}
   s.description = %q{A really Ruby Mail handler.}
   s.email = %q{raasdnil@gmail.com}
-  s.extra_rdoc_files = [%q{README.rdoc}, %q{CHANGELOG.rdoc}, %q{TODO.rdoc}]
-  s.files = [%q{README.rdoc}, %q{CHANGELOG.rdoc}, %q{TODO.rdoc}]
+  s.extra_rdoc_files = ["README.rdoc", "CHANGELOG.rdoc", "TODO.rdoc"]
+  s.files = ["README.rdoc", "CHANGELOG.rdoc", "TODO.rdoc"]
   s.homepage = %q{http://github.com/mikel/mail}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Mail provides a nice Ruby DSL for making, sending and reading emails.}
 
   if s.respond_to? :specification_version then

@@ -5,17 +5,17 @@ Gem::Specification.new do |s|
   s.version = "0.1.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Jonas Nicklas}]
+  s.authors = ["Jonas Nicklas"]
   s.date = %q{2011-04-24}
   s.description = %q{XPath is a Ruby DSL for generating XPath expressions}
-  s.email = [%q{jonas.nicklas@gmail.com}]
-  s.extra_rdoc_files = [%q{README.rdoc}]
-  s.files = [%q{README.rdoc}]
+  s.email = ["jonas.nicklas@gmail.com"]
+  s.extra_rdoc_files = ["README.rdoc"]
+  s.files = ["README.rdoc"]
   s.homepage = %q{http://github.com/jnicklas/xpath}
-  s.rdoc_options = [%q{--main}, %q{README.rdoc}]
-  s.require_paths = [%q{lib}]
+  s.rdoc_options = ["--main", "README.rdoc"]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{xpath}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Generate XPath expressions from Ruby}
 
   if s.respond_to? :specification_version then

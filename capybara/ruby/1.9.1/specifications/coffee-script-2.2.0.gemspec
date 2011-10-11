@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "2.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Jeremy Ashkenas}, %q{Joshua Peek}, %q{Sam Stephenson}]
+  s.authors = ["Jeremy Ashkenas", "Joshua Peek", "Sam Stephenson"]
   s.date = %q{2010-03-11}
   s.description = %q{    Ruby CoffeeScript is a bridge to the JS CoffeeScript compiler.
 }
   s.email = %q{josh@joshpeek.com}
   s.homepage = %q{http://github.com/josh/ruby-coffee-script}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Ruby CoffeeScript Compiler}
 
   if s.respond_to? :specification_version then

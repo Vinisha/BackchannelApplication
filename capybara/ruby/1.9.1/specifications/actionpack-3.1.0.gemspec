@@ -5,15 +5,15 @@ Gem::Specification.new do |s|
   s.version = "3.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{David Heinemeier Hansson}]
+  s.authors = ["David Heinemeier Hansson"]
   s.date = %q{2011-08-31}
   s.description = %q{Web apps on Rails. Simple, battle-tested conventions for building and testing MVC web applications. Works with any Rack-compatible server.}
   s.email = %q{david@loudthinking.com}
   s.homepage = %q{http://www.rubyonrails.org}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.required_ruby_version = Gem::Requirement.new(">= 1.8.7")
-  s.requirements = [%q{none}]
-  s.rubygems_version = %q{1.8.6}
+  s.requirements = ["none"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Web-flow and rendering framework putting the VC in MVC (part of Rails).}
 
   if s.respond_to? :specification_version then

@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "1.3.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Christian Neukirchen}]
+  s.authors = ["Christian Neukirchen"]
   s.date = %q{2011-09-16}
   s.description = %q{Rack provides minimal, modular and adaptable interface for developing
 web applications in Ruby.  By wrapping HTTP requests and responses in
@@ -16,13 +16,13 @@ middleware) into a single method call.
 Also see http://rack.rubyforge.org.
 }
   s.email = %q{chneukirchen@gmail.com}
-  s.executables = [%q{rackup}]
-  s.extra_rdoc_files = [%q{README.rdoc}, %q{KNOWN-ISSUES}]
-  s.files = [%q{bin/rackup}, %q{README.rdoc}, %q{KNOWN-ISSUES}]
+  s.executables = ["rackup"]
+  s.extra_rdoc_files = ["README.rdoc", "KNOWN-ISSUES"]
+  s.files = ["bin/rackup", "README.rdoc", "KNOWN-ISSUES"]
   s.homepage = %q{http://rack.rubyforge.org}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{rack}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{a modular Ruby webserver interface}
 
   if s.respond_to? :specification_version then

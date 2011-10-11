@@ -5,18 +5,18 @@ Gem::Specification.new do |s|
   s.version = "1.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Thomas Sawyer}, %q{Florian Frank}]
+  s.authors = ["Thomas Sawyer", "Florian Frank"]
   s.date = %q{2011-06-30}
   s.description = %q{The ANSI project is a collection of ANSI escape code related libraries enabling ANSI code based colorization and stylization of output. It is very nice for beautifying shell output.}
   s.email = %q{rubyworks-mailinglist@googlegroups.com}
-  s.extra_rdoc_files = [%q{README.rdoc}]
-  s.files = [%q{README.rdoc}]
+  s.extra_rdoc_files = ["README.rdoc"]
+  s.files = ["README.rdoc"]
   s.homepage = %q{http://rubyworks.github.com/ansi}
-  s.licenses = [%q{Apache 2.0}]
-  s.rdoc_options = [%q{--title}, %q{ANSI API}, %q{--main}, %q{README.rdoc}]
-  s.require_paths = [%q{lib}]
+  s.licenses = ["Apache 2.0"]
+  s.rdoc_options = ["--title", "ANSI API", "--main", "README.rdoc"]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{ansi}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{ANSI codes at your fingertips!}
 
   if s.respond_to? :specification_version then

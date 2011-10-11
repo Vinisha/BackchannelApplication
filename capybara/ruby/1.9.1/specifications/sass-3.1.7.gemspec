@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "3.1.7"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Nathan Weizenbaum}, %q{Chris Eppstein}, %q{Hampton Catlin}]
+  s.authors = ["Nathan Weizenbaum", "Chris Eppstein", "Hampton Catlin"]
   s.date = %q{2011-08-04}
   s.description = %q{      Sass makes CSS fun again. Sass is an extension of CSS3, adding
       nested rules, variables, mixins, selector inheritance, and more.
@@ -13,12 +13,12 @@ Gem::Specification.new do |s|
       command line tool or a web-framework plugin.
 }
   s.email = %q{sass-lang@googlegroups.com}
-  s.executables = [%q{sass}, %q{sass-convert}]
-  s.files = [%q{bin/sass}, %q{bin/sass-convert}]
+  s.executables = ["sass", "sass-convert"]
+  s.files = ["bin/sass", "bin/sass-convert"]
   s.homepage = %q{http://sass-lang.com/}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{sass}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{A powerful but elegant CSS compiler that makes CSS fun again.}
 
   if s.respond_to? :specification_version then

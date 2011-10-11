@@ -5,16 +5,16 @@ Gem::Specification.new do |s|
   s.version = "1.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Ryan Tomayko}]
+  s.authors = ["Ryan Tomayko"]
   s.date = %q{2011-08-27}
   s.description = %q{HTTP Caching for Rack}
   s.email = %q{r@tomayko.com}
-  s.extra_rdoc_files = [%q{README}, %q{COPYING}, %q{TODO}, %q{CHANGES}]
-  s.files = [%q{README}, %q{COPYING}, %q{TODO}, %q{CHANGES}]
+  s.extra_rdoc_files = ["README", "COPYING", "TODO", "CHANGES"]
+  s.files = ["README", "COPYING", "TODO", "CHANGES"]
   s.homepage = %q{http://tomayko.com/src/rack-cache/}
-  s.rdoc_options = [%q{--line-numbers}, %q{--inline-source}, %q{--title}, %q{Rack::Cache}, %q{--main}, %q{Rack::Cache}]
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Rack::Cache", "--main", "Rack::Cache"]
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{HTTP Caching for Rack}
 
   if s.respond_to? :specification_version then

@@ -36,9 +36,9 @@ ActiveRecord::Schema.define(:version => 20110930003330) do
   create_table "posts", :force => true do |t|
     t.string   "Unity_ID"
     t.string   "Subject"
-    t.string   "Content",    :limit => 1096
-    t.integer  "Votes",                      :default => 0
-    t.integer  "No_Replies",                 :default => 0
+    t.string   "Content"
+    t.integer  "Votes",      :default => 0
+    t.integer  "No_Replies", :default => 0
     t.datetime "created_at"
     t.datetime "updated_at"
   end

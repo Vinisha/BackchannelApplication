@@ -5,16 +5,16 @@ Gem::Specification.new do |s|
   s.version = "1.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3.6") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Michael Bleigh}, %q{Josh Kalderimis}, %q{Erik Michaels-Ober}]
+  s.authors = ["Michael Bleigh", "Josh Kalderimis", "Erik Michaels-Ober"]
   s.date = %q{2011-05-23}
   s.description = %q{A gem to provide swappable JSON backends utilizing Yajl::Ruby, the JSON gem, JSON pure, or a vendored version of okjson.}
-  s.email = [%q{michael@intridea.com}, %q{josh.kalderimis@gmail.com}, %q{sferik@gmail.com}]
-  s.extra_rdoc_files = [%q{LICENSE.md}, %q{README.md}]
-  s.files = [%q{LICENSE.md}, %q{README.md}]
+  s.email = ["michael@intridea.com", "josh.kalderimis@gmail.com", "sferik@gmail.com"]
+  s.extra_rdoc_files = ["LICENSE.md", "README.md"]
+  s.files = ["LICENSE.md", "README.md"]
   s.homepage = %q{http://github.com/intridea/multi_json}
-  s.rdoc_options = [%q{--charset=UTF-8}]
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.rdoc_options = ["--charset=UTF-8"]
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{A gem to provide swappable JSON backends.}
 
   if s.respond_to? :specification_version then

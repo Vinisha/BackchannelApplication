@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "3.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Santiago Pastorino}]
+  s.authors = ["Santiago Pastorino"]
   s.date = %q{2011-09-13}
   s.description = %q{Coffee Script adapter for the Rails asset pipeline.}
-  s.email = [%q{santiago@wyeworks.com}]
+  s.email = ["santiago@wyeworks.com"]
   s.homepage = %q{}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{coffee-rails}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Coffee Script adapter for the Rails asset pipeline.}
 
   if s.respond_to? :specification_version then

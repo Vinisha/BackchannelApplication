@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "1.2.9"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Sam Stephenson}, %q{Josh Peek}]
+  s.authors = ["Sam Stephenson", "Josh Peek"]
   s.date = %q{2011-09-24}
   s.description = %q{    ExecJS lets you run JavaScript code from Ruby.
 }
-  s.email = [%q{sstephenson@gmail.com}, %q{josh@joshpeek.com}]
+  s.email = ["sstephenson@gmail.com", "josh@joshpeek.com"]
   s.homepage = %q{https://github.com/sstephenson/execjs}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Run JavaScript code from Ruby}
 
   if s.respond_to? :specification_version then

@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "2.2.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Aaron Patterson}, %q{Bryan Halmkamp}, %q{Emilio Tagua}, %q{Nick Kallen}]
+  s.authors = ["Aaron Patterson", "Bryan Halmkamp", "Emilio Tagua", "Nick Kallen"]
   s.date = %q{2011-08-15}
   s.description = %q{Arel is a SQL AST manager for Ruby. It
 
@@ -15,14 +15,14 @@ Gem::Specification.new do |s|
 It is intended to be a framework framework; that is, you can build your own ORM
 with it, focusing on innovative object and collection modeling as opposed to
 database compatibility and query generation.}
-  s.email = [%q{aaron@tenderlovemaking.com}, %q{bryan@brynary.com}, %q{miloops@gmail.com}, %q{nick@example.org}]
-  s.extra_rdoc_files = [%q{History.txt}, %q{MIT-LICENSE.txt}, %q{Manifest.txt}, %q{README.markdown}]
-  s.files = [%q{History.txt}, %q{MIT-LICENSE.txt}, %q{Manifest.txt}, %q{README.markdown}]
+  s.email = ["aaron@tenderlovemaking.com", "bryan@brynary.com", "miloops@gmail.com", "nick@example.org"]
+  s.extra_rdoc_files = ["History.txt", "MIT-LICENSE.txt", "Manifest.txt", "README.markdown"]
+  s.files = ["History.txt", "MIT-LICENSE.txt", "Manifest.txt", "README.markdown"]
   s.homepage = %q{http://github.com/rails/arel}
-  s.rdoc_options = [%q{--main}, %q{README.markdown}]
-  s.require_paths = [%q{lib}]
+  s.rdoc_options = ["--main", "README.markdown"]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{arel}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Arel is a SQL AST manager for Ruby}
 
   if s.respond_to? :specification_version then

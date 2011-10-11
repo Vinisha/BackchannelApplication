@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "0.2.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Jari Bakken}]
+  s.authors = ["Jari Bakken"]
   s.date = %q{2011-08-26}
   s.description = %q{This gem aims at being a simple and reliable solution for controlling external programs running in the background on any Ruby / OS combination.}
-  s.email = [%q{jari.bakken@gmail.com}]
+  s.email = ["jari.bakken@gmail.com"]
   s.homepage = %q{http://github.com/jarib/childprocess}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{childprocess}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{This gem aims at being a simple and reliable solution for controlling external programs running in the background on any Ruby / OS combination.}
 
   if s.respond_to? :specification_version then

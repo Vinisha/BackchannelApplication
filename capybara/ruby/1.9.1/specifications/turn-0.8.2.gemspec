@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "0.8.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Tim Pease}]
+  s.authors = ["Tim Pease"]
   s.date = %q{2011-03-31}
   s.description = %q{TURN is a new way to view Test::Unit results. With longer running tests, it
 can be very frustrating to see a failure (....F...) and then have to wait till
@@ -17,14 +17,14 @@ If you have the 'ansi' gem installed, then TURN output will be displayed in
 wonderful technicolor (but only if your terminal supports ANSI color codes).
 Well, the only colors are green and red, but that is still color.}
   s.email = %q{tim.pease@gmail.com}
-  s.executables = [%q{turn}]
-  s.extra_rdoc_files = [%q{History.txt}, %q{README.txt}, %q{Release.txt}, %q{Version.txt}, %q{bin/turn}]
-  s.files = [%q{bin/turn}, %q{History.txt}, %q{README.txt}, %q{Release.txt}, %q{Version.txt}]
+  s.executables = ["turn"]
+  s.extra_rdoc_files = ["History.txt", "README.txt", "Release.txt", "Version.txt", "bin/turn"]
+  s.files = ["bin/turn", "History.txt", "README.txt", "Release.txt", "Version.txt"]
   s.homepage = %q{http://gemcutter.org/gems/turn}
-  s.rdoc_options = [%q{--main}, %q{README.txt}]
-  s.require_paths = [%q{lib}]
+  s.rdoc_options = ["--main", "README.txt"]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{turn}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Test::Unit Reporter (New) -- new output format for Test::Unit}
 
   if s.respond_to? :specification_version then

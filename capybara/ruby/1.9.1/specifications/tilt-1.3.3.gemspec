@@ -5,16 +5,16 @@ Gem::Specification.new do |s|
   s.version = "1.3.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Ryan Tomayko}]
+  s.authors = ["Ryan Tomayko"]
   s.date = %q{2011-08-25}
   s.description = %q{Generic interface to multiple Ruby template engines}
   s.email = %q{r@tomayko.com}
-  s.executables = [%q{tilt}]
-  s.files = [%q{bin/tilt}]
+  s.executables = ["tilt"]
+  s.files = ["bin/tilt"]
   s.homepage = %q{http://github.com/rtomayko/tilt/}
-  s.rdoc_options = [%q{--line-numbers}, %q{--inline-source}, %q{--title}, %q{Tilt}, %q{--main}, %q{Tilt}]
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Tilt", "--main", "Tilt"]
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Generic interface to multiple Ruby template engines}
 
   if s.respond_to? :specification_version then

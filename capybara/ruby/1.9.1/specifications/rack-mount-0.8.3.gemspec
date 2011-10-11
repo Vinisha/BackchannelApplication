@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "0.8.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Joshua Peek}]
+  s.authors = ["Joshua Peek"]
   s.date = %q{2011-08-30}
   s.description = %q{    A stackable dynamic tree based Rack router.
 }
   s.email = %q{josh@joshpeek.com}
   s.homepage = %q{https://github.com/josh/rack-mount}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Stackable dynamic tree based Rack router}
 
   if s.respond_to? :specification_version then

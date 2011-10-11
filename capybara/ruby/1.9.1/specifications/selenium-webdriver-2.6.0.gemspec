@@ -5,13 +5,13 @@ Gem::Specification.new do |s|
   s.version = "2.6.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Jari Bakken}]
+  s.authors = ["Jari Bakken"]
   s.date = %q{2011-09-13}
   s.description = %q{WebDriver is a tool for writing automated tests of websites. It aims to mimic the behaviour of a real user, and as such interacts with the HTML of the application.}
   s.email = %q{jari.bakken@gmail.com}
   s.homepage = %q{http://selenium.googlecode.com}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{The next generation developer focused tool for automated testing of webapps}
 
   if s.respond_to? :specification_version then

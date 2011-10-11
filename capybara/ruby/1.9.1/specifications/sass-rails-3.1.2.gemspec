@@ -5,14 +5,14 @@ Gem::Specification.new do |s|
   s.version = "3.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{wycats}, %q{chriseppstein}]
+  s.authors = ["wycats", "chriseppstein"]
   s.date = %q{2011-09-15}
   s.description = %q{Sass adapter for the Rails asset pipeline.}
-  s.email = [%q{wycats@gmail.com}, %q{chris@eppsteins.net}]
+  s.email = ["wycats@gmail.com", "chris@eppsteins.net"]
   s.homepage = %q{}
-  s.require_paths = [%q{lib}]
+  s.require_paths = ["lib"]
   s.rubyforge_project = %q{sass-rails}
-  s.rubygems_version = %q{1.8.6}
+  s.rubygems_version = %q{1.7.2}
   s.summary = %q{Sass adapter for the Rails asset pipeline.}
 
   if s.respond_to? :specification_version then
