@@ -2,888 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dfd4b4b-c185-45ae-805f-fc265a566a6d" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\cache\bcrypt-ruby-3.0.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\cache\ffi-1.0.9.gem" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\cache\nokogiri-1.5.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\cache\sqlite3-1.3.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\.rspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\CHANGELOG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\COPYING" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\bcrypt-ruby.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\jruby\bcrypt_jruby\BCrypt.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\bcrypt_ext.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\crypt.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\crypt.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\crypt_blowfish.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\crypt_gensalt.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\extconf.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\ow-crypt.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\ext\mri\wrapper.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\lib\bcrypt.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\lib\bcrypt_engine.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\spec\TestBCrypt.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\spec\bcrypt\engine_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\spec\bcrypt\password_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\bcrypt-ruby-3.0.1\spec\spec_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\History.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\AbstractMemory.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\AbstractMemory.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\AbstractMemory.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ArrayType.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ArrayType.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ArrayType.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Buffer.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Buffer.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Call.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Call.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Call.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ClosurePool.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ClosurePool.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ClosurePool.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\DataConverter.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\DataConverter.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\DynamicLibrary.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\DynamicLibrary.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\DynamicLibrary.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Function.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Function.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Function.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\FunctionInfo.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\FunctionInfo.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\LastError.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\LastError.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\LastError.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MappedType.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MappedType.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MappedType.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MemoryPointer.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MemoryPointer.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MemoryPointer.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MethodHandle.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MethodHandle.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\MethodHandle.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Platform.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Platform.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Platform.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Pointer.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Pointer.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Pointer.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Struct.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Struct.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Struct.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByReference.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByReference.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByReference.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByValue.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByValue.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructByValue.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructLayout.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\StructLayout.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Thread.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Thread.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Thread.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Type.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Type.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Type.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Types.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Types.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Types.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Variadic.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\Variadic.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\compat.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\endian.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\extconf.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\extconf.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ffi.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\ffi_c.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi.bsd.mk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi.darwin.mk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi.gnu.mk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi.mk" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.5.dylib" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.5.dylib.dSYM\Contents\Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.5.dylib.dSYM\Contents\Resources\DWARF\libffi.5.dylib" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.dylib" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.la" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi.lai" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi_convenience.a" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\.libs\libffi_convenience.la" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\ChangeLog.libffi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\ChangeLog.libgcj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\ChangeLog.v1" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\acinclude.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\aclocal.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\compile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\config.guess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\config.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\config.status" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\config.sub" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\configure" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\configure.host" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\depcomp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\doc\libffi.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\doc\libffi.texi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\doc\stamp-vti" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\doc\version.texi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\fficonfig.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\fficonfig.h.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\ffi.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\ffi.h.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\ffi_common.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\include\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\install-sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libffi.la" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libffi.pc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libffi.pc.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libffi_convenience.la" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libtool" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\libtool-version" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\ltmain.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\m4\libtool.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\m4\ltoptions.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\m4\ltsugar.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\m4\ltversion.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\m4\lt~obsolete.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\ffi.3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\ffi_call.3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\man\ffi_prep_cif.3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\mdate-sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\missing" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.deps\.dirstamp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.dirstamp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\closures.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\debug.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\java_raw_api.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\prep_cif.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\raw_api.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\.libs\types.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\alpha\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\alpha\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\alpha\osf.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\arm\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\arm\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\arm\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\avr32\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\avr32\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\avr32\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\closures.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\closures.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\cris\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\cris\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\cris\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\debug.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\debug.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\dlmalloc.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\frv\eabi.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\frv\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\frv\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\ia64\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\ia64\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\ia64\ia64_flags.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\ia64\unix.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\java_raw_api.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\java_raw_api.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m32r\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m32r\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m32r\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m68k\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m68k\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\m68k\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\mips\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\mips\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\mips\n32.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\mips\o32.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\pa\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\pa\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\pa\hpux32.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\pa\linux.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\aix.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\aix_closure.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\asm.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\darwin.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\darwin_closure.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\ffi_darwin.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\linux64.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\linux64_closure.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\ppc_closure.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\powerpc\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\prep_cif.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\prep_cif.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\raw_api.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\raw_api.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\s390\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\s390\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\s390\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh64\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh64\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh64\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sh\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sparc\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sparc\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sparc\v8.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\sparc\v9.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\types.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\types.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.deps\.dirstamp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.dirstamp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.libs\darwin.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.libs\darwin64.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.libs\ffi.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\.libs\ffi64.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\darwin.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\darwin.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\darwin64.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\darwin64.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\ffi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\ffi.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\ffi64.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\ffi64.lo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\ffitarget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\freebsd.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\sysv.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\unix64.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\win32.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\src\x86\win64.S" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\stamp-h1" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\config\default.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\lib\libffi-dg.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\lib\target-libpath.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\lib\wrapper.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\call.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn0.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn4.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn5.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_fn6.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_loc_fn0.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\closure_stdcall.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_12byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_16byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_18byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_19byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_1_1byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_20byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_20byte1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_24byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_2byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_3_1byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_3byte1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_3byte2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_4_1byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_4byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_5_1_byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_5byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_64byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_6_1_byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_6byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_7_1_byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_7byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_8byte.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_9byte1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_9byte2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_double.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_float.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_longdouble.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_longdouble_split.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_longdouble_split2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_pointer.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_sint16.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_sint32.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_sint64.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_uint16.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_uint32.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_align_uint64.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_dbls_struct.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_double.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_double_va.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_float.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_longdouble.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_longdouble_va.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_schar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_sshort.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_sshortchar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_uchar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_ushort.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_multi_ushortchar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_pointer.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_pointer_stack.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_schar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_sint.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_sshort.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_uchar.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_uint.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_ulonglong.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\cls_ushort.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\err_bad_abi.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\err_bad_typedef.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\ffitest.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\float.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\float1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\float2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\float3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\float4.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\huge_struct.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\many.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\many_win32.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\negint.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct10.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct4.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct5.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct6.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct7.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct8.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\nested_struct9.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\problem1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\promotion.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\pyobjc-tc.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_dbl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_dbl1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_dbl2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_fl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_fl1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_fl2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_fl3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_ldl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_ll.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_ll1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_sc.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_sl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_uc.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\return_ul.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\stret_large.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\stret_large2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\stret_medium.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\stret_medium2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\strlen.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\strlen_win32.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct1.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct2.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct4.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct5.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct6.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct7.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct8.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\struct9.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.call\testclosure.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.special\ffitestcxx.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.special\special.exp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.special\unwindtest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\testsuite\libffi.special\unwindtest_ffi_call.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\libffi\texinfo.tex" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\mkmf.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\ext\ffi_c\rbffi.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\gen\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\autopointer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\buffer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\callback.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\enum.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\errno.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\ffi.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\io.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\library.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\managedstruct.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\memorypointer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\i386-darwin\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\i386-linux\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\i386-openbsd\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\i386-solaris\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\i386-windows\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\powerpc-aix\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\powerpc-darwin\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\sparc-solaris\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\sparcv9-solaris\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\x86_64-darwin\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\x86_64-linux\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\x86_64-openbsd\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\platform\x86_64-solaris\types.conf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\pointer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\struct.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\struct_layout_builder.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\tools\const_generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\tools\generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\tools\generator_task.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\tools\struct_generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\tools\types_generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\types.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\union.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi\variadic.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\lib\ffi_c.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\async_callback_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\bool_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\buffer_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\callback_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\custom_param_type.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\custom_type_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\dup_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\enum_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\errno_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\ffi_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\function_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\library_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\managed_struct_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\number_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\pointer_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\rbx\attach_function_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\rbx\memory_pointer_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\rbx\spec_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\rbx\struct_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\spec_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\string_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\strptr_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\struct_callback_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\struct_initialize_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\struct_packed_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\struct_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\typedef_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\union_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\ffi\variadic_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\spec\spec.opts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\ann.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\extension.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\gem.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\git.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\notes.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\post_load.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\rdoc.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\rubyforge.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\setup.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\spec.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\svn.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\ffi-1.0.9\tasks\test.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\.autotest" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\.gemtest" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\CHANGELOG.ja.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\CHANGELOG.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\Manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\README.ja.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\bin\nokogiri" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\depend" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\extconf.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_document.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_document.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_document.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_element_description.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_element_description.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_element_description.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_entity_lookup.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_entity_lookup.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_entity_lookup.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_sax_parser_context.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_sax_parser_context.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\html_sax_parser_context.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\mkmf.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\nokogiri.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\nokogiri.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\nokogiri.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\nokogiri.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attr.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attr.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attr.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attribute_decl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attribute_decl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_attribute_decl.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_cdata.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_cdata.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_cdata.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_comment.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_comment.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_comment.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document_fragment.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document_fragment.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_document_fragment.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_dtd.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_dtd.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_dtd.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_content.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_content.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_content.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_decl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_decl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_element_decl.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_encoding_handler.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_encoding_handler.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_encoding_handler.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_decl.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_decl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_decl.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_reference.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_reference.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_entity_reference.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_io.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_io.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_io.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_libxml2_hacks.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_libxml2_hacks.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_libxml2_hacks.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_namespace.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_namespace.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_namespace.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node_set.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node_set.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_node_set.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_processing_instruction.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_processing_instruction.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_processing_instruction.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_reader.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_reader.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_reader.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_relax_ng.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_relax_ng.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_relax_ng.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser_context.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser_context.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_parser_context.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_push_parser.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_push_parser.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_sax_push_parser.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_schema.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_schema.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_schema.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_syntax_error.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_syntax_error.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_syntax_error.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_text.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_text.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_text.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_xpath_context.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_xpath_context.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xml_xpath_context.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xslt_stylesheet.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xslt_stylesheet.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\ext\nokogiri\xslt_stylesheet.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\parser.y" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\parser_extras.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\syntax_error.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\tokenizer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\tokenizer.rex" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\css\xpath_visitor.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\decorators\slop.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\builder.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\document.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\document_fragment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\element_description.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\element_description_defaults.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\entity_lookup.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\sax\parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\html\sax\parser_context.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\nokogiri.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\syntax_error.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\version.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\attr.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\attribute_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\builder.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\cdata.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\character_data.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\document.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\document_fragment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\dtd.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\element_content.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\element_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\entity_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\namespace.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\node\save_options.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\node_set.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\notation.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\parse_options.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\pp.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\pp\character_data.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\pp\node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\processing_instruction.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\relax_ng.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\sax.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\sax\document.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\sax\parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\sax\parser_context.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\sax\push_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\schema.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\syntax_error.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\text.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\xpath.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\xpath\syntax_error.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xml\xpath_context.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xslt.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\nokogiri\xslt\stylesheet.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\lib\xsd\xmlparser\nokogiri.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\nokogiri_help_responses.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\tasks\cross_compile.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\tasks\nokogiri.org.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\tasks\test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\css\test_nthiness.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\css\test_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\css\test_tokenizer.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\css\test_xpath_visitor.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\decorators\test_slop.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\2ch.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\address_book.rlx" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\address_book.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\bar\bar.xsd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\dont_hurt_em_why.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\encoding.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\encoding.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\exslt.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\exslt.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\foo\foo.xsd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\metacharset.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\noencoding.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\po.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\po.xsd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\shift_jis.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\shift_jis.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\snuggles.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\staff.dtd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\staff.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\staff.xslt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\tlm.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\files\valid_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\sax\test_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\sax\test_parser_context.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_builder.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_document.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_document_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_document_fragment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_element_description.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_named_characters.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\html\test_node_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_convert_xpath.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_css_cache.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_encoding_handler.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_memory_leak.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_nokogiri.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_soap4r_sax.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\test_xslt_transforms.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\node\test_save_options.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\node\test_subclass.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\sax\test_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\sax\test_parser_context.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\sax\test_push_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_attr.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_attribute_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_builder.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_cdata.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_comment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_document.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_document_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_document_fragment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_dtd.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_dtd_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_element_content.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_element_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_entity_decl.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_entity_reference.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_namespace.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_node_attributes.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_node_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_node_reparenting.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_node_set.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_parse_options.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_processing_instruction.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_reader_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_relax_ng.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_schema.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_syntax_error.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_text.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_unparented_node.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xml\test_xpath.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xslt\test_custom_functions.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\nokogiri-1.5.0\test\xslt\test_exception_handling.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\.gemtest" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\API_CHANGES.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\CHANGELOG.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ChangeLog.cvs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\Manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\backup.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\backup.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\backup.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\database.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\database.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\database.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\exception.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\exception.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\exception.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\extconf.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\mkmf.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\sqlite3.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\sqlite3.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\sqlite3_native.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\sqlite3_ruby.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\statement.c" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\statement.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\ext\sqlite3\statement.o" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\faq\faq.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\faq\faq.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\constants.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\database.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\errors.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\pragmas.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\resultset.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\sqlite3_native.bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\statement.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\translator.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\value.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\lib\sqlite3\version.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\setup.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\tasks\faq.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\tasks\gem.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\tasks\native.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\tasks\vendor_sqlite3.rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_backup.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_collation.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_database.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_database_readonly.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_deprecated.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_encoding.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_integration.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_integration_open_close.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_integration_pending.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_integration_resultset.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_integration_statement.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_sqlite3.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_statement.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\gems\sqlite3-1.3.4\test\test_statement_execute.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\specifications\bcrypt-ruby-3.0.1.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\specifications\ffi-1.0.9.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\specifications\nokogiri-1.5.0.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\vini\Desktop\Final\BackChannelappfinal\capybara\ruby\1.9.1\specifications\sqlite3-1.3.4.gemspec" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/channelapp.iml" afterPath="$PROJECT_DIR$/.idea/channelapp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/erubis" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/erubis" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/nokogiri" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/nokogiri" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rackup" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rackup" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rake2thor" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rake2thor" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rdoc" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rdoc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/ri" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/ri" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/sass-convert" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/sass-convert" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/sass" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/testrb" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/testrb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/thor" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/thor" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/tilt" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/tilt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/tt" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/tt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/turn" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/turn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rails" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rails" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rake" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/bin/rake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/actionmailer-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/actionmailer-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/actionpack-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/actionpack-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activemodel-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activemodel-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activerecord-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activerecord-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activeresource-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activeresource-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activesupport-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/activesupport-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/ansi-1.3.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/ansi-1.3.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/arel-2.2.1.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/arel-2.2.1.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/builder-3.0.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/builder-3.0.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/capybara-1.1.1.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/capybara-1.1.1.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/childprocess-0.2.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/childprocess-0.2.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-rails-3.1.1.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-rails-3.1.1.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-script-2.2.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-script-2.2.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-script-source-1.1.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/coffee-script-source-1.1.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/erubis-2.7.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/erubis-2.7.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/execjs-1.2.9.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/execjs-1.2.9.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/hike-1.2.1.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/hike-1.2.1.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/i18n-0.6.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/i18n-0.6.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/jquery-rails-1.0.14.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/jquery-rails-1.0.14.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/json_pure-1.6.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/json_pure-1.6.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/mail-2.3.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/mail-2.3.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/mime-types-1.16.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/mime-types-1.16.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/multi_json-1.0.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/multi_json-1.0.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/polyglot-0.3.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/polyglot-0.3.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-1.3.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-1.3.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-cache-1.0.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-cache-1.0.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-mount-0.8.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-mount-0.8.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-ssl-1.3.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-ssl-1.3.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-test-0.6.1.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rack-test-0.6.1.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rails-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rails-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/railties-3.1.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/railties-3.1.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rake-0.9.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rake-0.9.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rdoc-3.9.4.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rdoc-3.9.4.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rubyzip-0.9.4.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/rubyzip-0.9.4.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sass-3.1.7.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sass-3.1.7.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sass-rails-3.1.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sass-rails-3.1.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/selenium-webdriver-2.6.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/selenium-webdriver-2.6.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sprockets-2.0.0.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/sprockets-2.0.0.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/test-unit-2.3.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/test-unit-2.3.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/thor-0.14.6.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/thor-0.14.6.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/tilt-1.3.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/tilt-1.3.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/treetop-1.4.10.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/treetop-1.4.10.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/turn-0.8.2.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/turn-0.8.2.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/tzinfo-0.3.29.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/tzinfo-0.3.29.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/uglifier-1.0.3.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/uglifier-1.0.3.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/xpath-0.1.4.gemspec" afterPath="$PROJECT_DIR$/capybara/ruby/1.9.1/specifications/xpath-0.1.4.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
     </list>
     <ignored path="channelapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -928,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="77" selection-start="508" selection-end="508" vertical-scroll-proportion="0.48178136">
+            <state line="13" column="77" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -946,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="69" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+            <state line="14" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.33226836">
               <folding />
             </state>
           </provider>
@@ -968,6 +88,15 @@
         <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="50" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="-30.73077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="46" selection-start="318" selection-end="318" vertical-scroll-proportion="-17.653847">
               <folding />
             </state>
           </provider>
@@ -1004,8 +133,8 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -1697,20 +826,20 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62601626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32520324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23957543" sideWeight="0.44552845" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23957543" sideWeight="0.55284554" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55447155" sideWeight="0.9861496" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44715446" sideWeight="0.9861496" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.62601626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1788,27 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="-30.73077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="38" selection-start="317" selection-end="317" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="4" selection-start="717" selection-end="721" vertical-scroll-proportion="-18.307692">
@@ -1837,13 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="69" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="65" selection-start="1731" selection-end="1731" vertical-scroll-proportion="0.0">
@@ -1851,9 +952,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="8" selection-start="2144" selection-end="2148" vertical-scroll-proportion="0.0">
+        <state line="50" column="0" selection-start="1246" selection-end="1246" vertical-scroll-proportion="-30.73077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="46" selection-start="318" selection-end="318" vertical-scroll-proportion="-17.653847">
           <folding />
         </state>
       </provider>
@@ -1865,9 +973,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="8" selection-start="2144" selection-end="2148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="77" selection-start="508" selection-end="508" vertical-scroll-proportion="0.48178136">
+        <state line="13" column="77" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="43" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.33226836">
           <folding />
         </state>
       </provider>
