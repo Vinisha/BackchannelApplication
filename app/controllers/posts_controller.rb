@@ -182,7 +182,7 @@ class PostsController < ApplicationController
   # DELETE /posts/1
   # DELETE /posts/1.json
   def destroy
-    puts "in and before destroy"
+    puts "destroying the post in post controller"
     #puts Post.count
     @post = Post.find(params[:id])
     @post.destroy
