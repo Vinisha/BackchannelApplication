@@ -5,6 +5,12 @@ gem 'rails', '3.1.0'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
+
+gem 'execjs'
+group :production do
+gem 'therubyracer-heroku'
+end
+
 group :production do
 gem 'pg'
 end
