@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8dfd4b4b-c185-45ae-805f-fc265a566a6d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="channelapp.iws" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="15" selection-start="157" selection-end="157" vertical-scroll-proportion="0.4755245">
+            <state line="8" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.4755245">
               <folding />
             </state>
           </provider>
@@ -852,7 +853,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="one commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="execjs commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -870,6 +871,7 @@
     <MESSAGE value="4 commit" />
     <MESSAGE value="development commit" />
     <MESSAGE value="one commit" />
+    <MESSAGE value="execjs commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -978,7 +980,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="15" selection-start="157" selection-end="157" vertical-scroll-proportion="0.4755245">
+        <state line="8" column="0" selection-start="145" selection-end="145" vertical-scroll-proportion="0.4755245">
           <folding />
         </state>
       </provider>
