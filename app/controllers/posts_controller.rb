@@ -18,8 +18,6 @@ class PostsController < ApplicationController
     #puts "todays day"
     #puts @time1
     @Weight=Array.new
-    @value_per_day=1
-    @value_of_vote=1
     @total_points=180
 
     @posts.each do |post|
@@ -34,7 +32,10 @@ class PostsController < ApplicationController
          # @metric=0
         #else
         #@metric=post.Votes + @days + 10 +post.id
-         @metric=(post.Votes * @value_of_vote) + (@total_points - (@days * @value_per_day)) + post.id
+         @metric=post.Votes + (@total_points - @days) + post.id
+        #puts "post id is:"
+        #puts post.id
+        #puts "the metric is:"
          #puts @metric
          @Weight<<[@metric,post.id]
 
@@ -45,7 +46,7 @@ class PostsController < ApplicationController
     #puts "****************** printing the metrics array****************************************88"
     #puts @Weight
     @met=Array.new
-    @met=@Weight.sort
+    @met=@Weight.sort.reverse
     #puts @met
     @posts_send=Array.new
     @met.each do |met|
