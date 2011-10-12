@@ -92,7 +92,7 @@ class PostsController < ApplicationController
       #puts "in else if"
       @x=/\w*#{params["text"]}\w*/
       @posts.each do |post|
-         if(@x.match(post.Content))
+         if(@x.match(post.Content) || @x.match(post.Subject))
            #puts post.Unity_ID
            @posts_send<<post
          end
