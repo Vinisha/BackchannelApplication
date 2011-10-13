@@ -3,10 +3,13 @@
 <%= render 'form' %>
 
 <% if session[:Unity_ID]!=nil %>
-<% @role=User.find_by_Unity_ID(session[:Unity_ID])%>
-<% if @role.Role=="Admin" %>
-<%= link_to 'Back', posts_path %>
+  <% @role=User.find_by_Unity_ID(session[:Unity_ID])%>
+  <% if @role.Role=="Admin" %>
+     <%= link_to 'Back', posts_path %>
+  <%else%>
+     <%= link_to 'Back', new_login_url %>
+  <%end%>
+<%else%>
+  <%= link_to 'Back', new_login_url %>
 <%end%>
-   <%end%>
 
-<%= link_to 'Back', new_login_url %>
