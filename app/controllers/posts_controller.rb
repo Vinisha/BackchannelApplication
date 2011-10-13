@@ -1,7 +1,9 @@
 class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
-    before_filter :checking, :except=>:find
+    before_filter :checking, :except=> [:find,:show]
+
+
       def index
     #puts "in index(posts)"
 
@@ -77,7 +79,8 @@ class PostsController < ApplicationController
 
 
   def find
-    #puts "in find"
+    puts "in find in controller"
+    session[:findflag]=1
     @posts=Post.all
     @posts_send=Array.new
     if(params["Search"]=="name")
@@ -191,6 +194,24 @@ class PostsController < ApplicationController
     respond_to do |format|
       format.html { redirect_to posts_url }
       format.json { head :ok }
+    end
+  end
+
+  def viewpost
+    @post = Post.find(params[:id])    #getting the post_id and storing in session variable
+    #puts "In the show method of posts controller, showing post id"
+    session[:post_id]=params[:id]
+    #puts session[:post_id]
+
+    @post_record = Post.find_by_id(session[:post_id])
+      session[:subject]= @post_record.Subject
+
+      @reply= Reply.find_all_by_Post_ID(session[:post_id])
+
+
+    respond_to do |format|
+      format.html # viewpost.html.erb
+      format.json { render json: @post }
     end
   end
 end

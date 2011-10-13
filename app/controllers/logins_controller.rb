@@ -40,6 +40,7 @@ class LoginsController < ApplicationController
   # POST /logins
   # POST /logins.json
   def create
+    session[:findflag]=0
     @uname = User.find_by_Unity_ID(params[:user])
     if(@uname==nil)
 
@@ -109,6 +110,7 @@ class LoginsController < ApplicationController
     #puts "in logout"
     session[:Unity_ID]=nil
     session[:post_id]=nil
+    session[:findflag]=0
     redirect_to(:controller =>"logins",:action => "new")
   end
 end

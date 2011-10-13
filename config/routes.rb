@@ -11,6 +11,7 @@ Channelapp::Application.routes.draw do
   resources :users
   match '/posts/index', :controller => 'posts', :action => 'index'
   match '/posts/find', :controller => 'posts', :action => 'find'
+  match '/posts/viewpost', :controller => 'posts', :action => 'viewpost'
   resources :posts
 
   # The priority is based upon order of creation:

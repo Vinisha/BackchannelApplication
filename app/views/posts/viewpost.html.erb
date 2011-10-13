@@ -1,13 +1,11 @@
 <p id="notice"><%= notice %></p>
-<%if session[:Unity_ID]!=nil %>
-  <p align="right">
-    <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
-    <%= link_to 'Home', posts_path%>
-    <%= link_to @name.Name, posts_path%>
-    <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
-  </p>
-<%end%>
 
+<p align="right">
+   <% @name=User.find_by_Unity_ID(session[:Unity_ID]) %>
+  <%= link_to 'Home', posts_path%>
+   <%= link_to @name.Name, posts_path%>
+   <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
+</p>
 <table align="center">
   <tr>
   <td>
@@ -107,29 +105,7 @@
 
 
 <p align="center">
-  <%if(session[:Unity_ID]!=nil && session[:findflag]==1) %>
-      <% puts "in first if findflag"  %>
-      <% puts session[:findflag] %>
-      <% puts "in first if of posts show view" %>
-      <% session[:findflag]=0 %>
-      <%puts "after"%>
-      <% puts session[:findflag] %>
-     <%= link_to 'Back', :controller => "posts", :action => "find"%>
-
-  <% elsif session[:Unity_ID]==nil %>
-      <% puts "in else if findflag"  %>
-      <% puts session[:findflag] %>
-      <% puts "in else if of posts show view" %>
-      <% session[:findflag]=0 %>
-      <%puts "after"%>
-      <% puts session[:findflag] %>
-
-
-     <%= link_to 'Back', :controller => "posts", :action => "find" %>
-  <%else%>
-      <% puts "before" %>
-      <% puts session[:findflag] %>
-      <% puts "in final else" %>
-     <%= link_to 'Back', posts_path%>
+<% if(session[:Unity_ID]!=nil) %>
+    <%= link_to 'Back', posts_path %>
 <%end%>
 </p>
