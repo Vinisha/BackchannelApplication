@@ -19,8 +19,11 @@ d) Commands to run and stop the app:-
 
 e) Metrics calculation:- We are assigning a value to each day in year. 
    The metric which we used here is:
-@metric = post.Votes  + (@total_points - @days) + post.id
-Where we have given value of each vote as 1, the total points are considered as 180(since, a semester has 6 months at most with 30 days in each month. As the days go on, the difference between creation day and present day is calculated and subtracted from the total points. Value per day is taken as 1 too. And the post id is taken as extra in case the values (post.Votes * value of vote) and (total_points – days * value per day) become zero.
+   @metric = post.Votes  + (@total_points - @days) + post.id
+   We have given the total points as 180(since, a semester has 6 months at most with 30 days in each month.
+   As the days go on, the difference between creation day and present day is calculated and subtracted from the total
+   points. And the post id is taken as extra in case the values, post.Votes  and (total_points – @days) become zero.
+
 ADMIN Account:
 Username: vvarre
 Password: vinisha
