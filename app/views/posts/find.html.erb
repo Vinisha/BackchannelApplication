@@ -7,6 +7,7 @@
    <%= link_to @name.Name, posts_path%>
    <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
  </p>
+
 <%end%>
 
 
@@ -39,6 +40,12 @@
 <% end %>
 </table>
 
+<%if session[:Unity_ID]==nil %>
+    <p align="center">
+       <%= link_to 'LOGIN', :controller => "logins", :action => "new" %>
+    </p>
+
 <br />
 
 
+   <%end%>

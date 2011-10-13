@@ -6,6 +6,10 @@
     <%= link_to @name.Name, posts_path%>
     <%= link_to 'Logout', :controller=>"logins", :action=>"logout" %>
   </p>
+<% else %>
+    <p align="right">
+      <%= link_to 'LOGIN', :controller => "logins", :action => "new" %>
+    </p>
 <%end%>
 
 <table align="center">
