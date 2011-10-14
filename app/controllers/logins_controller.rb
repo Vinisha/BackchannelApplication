@@ -110,7 +110,7 @@ class LoginsController < ApplicationController
     #puts "in logout"
     session[:Unity_ID]=nil
     session[:post_id]=nil
-    session[:findflag]=0
+
     redirect_to(:controller =>"logins",:action => "new")
   end
 end

@@ -6,7 +6,7 @@ class PostsController < ApplicationController
 
       def index
     #puts "in index(posts)"
-
+     session[:findflag]=0
 
    @unity=User.find_by_Unity_ID(session[:Unity_ID])
    puts @unity.Name

@@ -111,29 +111,34 @@
 
 
 <p align="center">
-  <%if(session[:Unity_ID]!=nil && session[:findflag]==1) %>
-      <% puts "in first if findflag"  %>
-      <% puts session[:findflag] %>
-      <% puts "in first if of posts show view" %>
-      <% session[:findflag]=0 %>
-      <%puts "after"%>
-      <% puts session[:findflag] %>
-     <%= link_to 'Back', :controller => "posts", :action => "find"%>
+  <% if session[:Unity_ID]!=nil %>
+      <% if session[:findflag]==1 %>
+        <% puts "in first if findflag"  %>
+        <% puts session[:findflag] %>
+        <% puts "in first if of posts show view" %>
+        <% session[:findflag]=0 %>
+        <%puts "after session"%>
+        <% puts session[:findflag] %>
+        <%= link_to 'Back', :controller => "posts", :action => "find"%>
 
-  <% elsif session[:Unity_ID]==nil %>
+      <% else %>
+          <% puts "in second else" %>
+          <% puts session[:findflag] %>
+        <%= link_to 'Back to posts', posts_path%>
+
+      <% end %>
+  <%end%>
+
+  <% if session[:Unity_ID]==nil %>
       <% puts "in else if findflag"  %>
+
       <% puts session[:findflag] %>
       <% puts "in else if of posts show view" %>
-      <% session[:findflag]=0 %>
+
       <%puts "after"%>
       <% puts session[:findflag] %>
-
-
      <%= link_to 'Back', :controller => "posts", :action => "find" %>
-  <%else%>
-      <% puts "before" %>
-      <% puts session[:findflag] %>
-      <% puts "in final else" %>
-     <%= link_to 'Back', posts_path%>
-<%end%>
-</p>
+  <%end%>
+      </p>
+
+
