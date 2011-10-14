@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8dfd4b4b-c185-45ae-805f-fc265a566a6d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="channelapp.iws" />
     <ignored path=".idea/workspace.xml" />
