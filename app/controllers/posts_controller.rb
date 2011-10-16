@@ -34,7 +34,7 @@ class PostsController < ApplicationController
          # @metric=0
         #else
         #@metric=post.Votes + @days + 10 +post.id
-         @metric=post.Votes + (@total_points - @days) + post.id
+         @metric=post.Votes + (@total_points - @days)
         #puts "post id is:"
         #puts post.id
         #puts "the metric is:"
