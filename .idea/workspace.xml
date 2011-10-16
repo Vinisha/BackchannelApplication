@@ -884,7 +884,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="after bundle install commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku install commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -906,6 +906,7 @@
     <MESSAGE value="noexecjs commit" />
     <MESSAGE value="last commit" />
     <MESSAGE value="after bundle install commit" />
+    <MESSAGE value="heroku install commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
