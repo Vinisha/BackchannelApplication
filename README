@@ -5,6 +5,7 @@ a) Team
 --> Prathibha Ayyappan(payyapp)
 
 b) Test framework use  :- Test::Unit
+    Capybara is also used for the integration tests
 
 c) url :- http://localhost/3000
 
