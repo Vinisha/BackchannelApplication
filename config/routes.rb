@@ -5,7 +5,8 @@ Channelapp::Application.routes.draw do
   resources :replies
   match '/likes/vote_check', :controller => 'likes', :action => 'vote_check'
   resources :likes
-   match '/logins/logout', :controller => 'logins', :action => 'logout'
+  match '/logins/new', :controller => 'logins', :action => 'new'
+  match '/logins/logout', :controller => 'logins', :action => 'logout'
   resources :logins
 
   resources :users

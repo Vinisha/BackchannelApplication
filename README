@@ -44,5 +44,5 @@ f) Functionality:
     logging in.
   - Active posts are ordered by the metric mentioned above and is not displayed according to just the time.
 
-Note: Please dont delete the admin account.
-
+Note 1: Please dont delete the admin account.
+Note 2: Please check the second link http://hollow-light-3647.herokuapp.com/
